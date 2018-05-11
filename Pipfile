@@ -6,9 +6,13 @@ name = "pypi"
 [packages]
 django = "*"
 pillow = "*"
+dj-database-url = "*"
+dj-static = "*"
+django-taggit = "*"
 
 [dev-packages]
 pylint = "*"
+model-mommy = "*"
 
 [requires]
 python_version = "3.6"

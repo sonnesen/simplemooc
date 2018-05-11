@@ -2,3 +2,5 @@
 .pydevproject
 __pycache__/
 db.sqlite3
+local_settings.py
+simplemooc/media/courses/images/*.png
